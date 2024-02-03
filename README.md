@@ -17,5 +17,5 @@
 <img src="https://media.proglib.io/wp-uploads/2017/09/qa-2-min.png"width="500"/>
 </div>
 
-### woman_technologist: About Me :
+### :woman_technologist: About Me :
 I am a Software QA Engineer and I feel passionate about it :star_struck:
