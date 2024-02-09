@@ -19,9 +19,9 @@
 
 ___
 
-- :woman_technologist: About Me :
-- :computer: I am a Software QA engineer
-- :bomb: I do Manual vs Automated Software Testing 
-- :hearts: I feel passionate about it
+### :woman_technologist: About Me :
+:computer: I am a Software QA engineer
+:bomb: I do Manual vs Automated Software Testing
+:hearts: I feel passionate about it
  
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LikendIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LikendIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
