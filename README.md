@@ -1,12 +1,10 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="150"/>
-
+ <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="200"/>
  <div id="badges">
      <a href=https://www.linkedin.com/in/sasha-akinsheva/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
   <h1>
@@ -14,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN0a3gwaW96dGlvbGdrNndtb3dpc2RoaDV0czIzcGw4MG5wMXdmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WykcMmr5Zu6b7Y240O/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN0a3gwaW96dGlvbGdrNndtb3dpc2RoaDV0czIzcGw4MG5wMXdmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WykcMmr5Zu6b7Y240O/giphy.gif" width="800" height="500"/>
 </div>
 
 ___
@@ -53,6 +51,10 @@ ___
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sashaakinsheva&theme=dark)](https://git.io/streak-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashaakinsheva)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
