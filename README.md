@@ -24,7 +24,7 @@ ___
 :bomb: I do Manual & Automated Software Testing
 :hearts: I feel passionate about it
  
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LikendIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LikendIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sasha-akinsheva/)
 
 ---
 
